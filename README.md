@@ -1,6 +1,4 @@
-# diagrama-controle-vigilancia
-
-Exemplo de diagrama de controle de vigilância usando ggplot2
+# Exemplo de diagrama de controle de vigilância usando ggplot2
 Natalia Paiva IESC UFRJ
 
 Exemplo básico de Diagrama de Controle para Vigilância em Saúde no R usando pacote ggplot2.
